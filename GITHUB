@@ -1,0 +1,15 @@
+ GitHub
+
+1. *Crie uma conta no GitHub*:
+   - Acesse [github.com](https://github.com) e crie sua conta.
+
+2. *Crie um novo repositório*:
+   - Faça login e clique no botão *"+"* no canto superior direito.
+   - Selecione *"New repository"*.
+   - Dê um nome ao seu repositório.
+   - Clique em *"Create repository"*.
+
+3. *Clone o repositório*:
+   - Copie a URL do repositório.
+   - No terminal (ou linha de comando), digite:
+     ```bash
